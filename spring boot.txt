@@ -1,0 +1,58 @@
+1  Introduction to Spring Essentials
+•  Why Spring
+•  Configuration using Spring
+•  Bean creation
+•  Data Management
+
+2  Spring Boot Introduction
+•  Introduction to Spring Boot Features
+•  Value Proposition of Spring Boot
+•  Creating a simple Boot application using Spring Initializr website
+
+3  Spring Boot Dependencies, Auto-configuration, and Runtime
+•  Dependency management using Spring Boot starters
+•  How auto-configuration works
+•  Configuration properties
+•  Overriding auto-configuration  
+•  Using CommandLineRunner
+
+4  JPA with Spring and Spring Data
+•  Quick introduction to ORM with JPA
+•  Benefits of using Spring with JPA
+•  JPA configuration in Spring
+•  Configuring Spring JPA using Spring Boot
+•  Spring Data JPA dynamic repositories
+
+5  Spring MVC Architecture and Overview
+•  Introduction to Spring MVC and request processing
+•  Controller method signatures
+•  Using @Controller, @RestController and @GetMapping annotations
+•  Configuring Spring MVC with Spring Boot
+•  Spring Boot packaging options, JAR or WAR
+
+6  Rest with Spring MVC
+•  An introduction to the REST architectural style
+•  Controlling HTTP response codes with @ResponseStatus
+•  Implementing REST with Spring MVC, @RequestMapping, @RequestBody and @ResponseBody
+•  Spring MVC’s HttpMessageConverters and automatic content negotiation
+
+7  Spring Security
+•  What problems does Spring Security solve?
+•  Configuring authentication
+•  Implementing authorization by intercepting URLs
+•  Authorization at the Java method level
+•  Understanding the Spring Security filter chain
+•  Spring security testing
+
+8  Actuators, Metrics and Health Indicators
+•  Exposing Spring Boot Actuator endpoints
+•  Custom Metrics
+•  Health Indicators
+•  Creating custom Health Indicators
+•  External monitoring systems
+
+9  Spring Boot Testing Enhancements  
+•  Spring Boot testing overview
+•  Integration testing using @SpringBootTest
+•  Web slice testing with MockMvc framework
+•  Slices to test different layers of the application

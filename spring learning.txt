@@ -1,0 +1,26 @@
+1.devtool                                  1.postMan
+2.security				   2.To learn PostMan we can use official postManDoc			
+3.accutator  				   3.debug spring application  with postman collection
+4.logging       19.junit		   
+5.thyleaf
+6.springfox swagger
+7.poi-ooxml
+8.poi
+9.springfox swagger ui                        		for fresher there are 4 rounds 
+10.commons codec
+11.commons-dbcp											
+12.jackson-datatype-jsr310				1.PROBLEM SOLVING SKILL (YOU WILL BE BECOME
+13.jsonwebtoken						2.FUTURE OTHERWISE DONT CHOSE PROGRAMING SIDE
+14.spring-boot-configuration-processor			3.ATTITUDE TOWARDS WORD YOU 				15.docker							MUST HAVE PASSION ABOUT YOUR DEVELOPING SIDE	16.custum exeption	
+17.application.pro					4.TEAM PLAYER
+18.git							5.LOGICAL THINGKING
+							1.online test(logical and reasoning ability)
+							(numerical ability and programiing logic coding 								interview)
+							2.technical question(cloud computing, big data,machine 							ler,AI,deep ler,black chain
+							3.manager round
+							4.hr
+						Project on SpringBoot - Appointment Management Systey
+
+						Project on Spring Framework - Creating a Shopping Cart Web App
+
+						Project on Jenkins - Employee Management System
